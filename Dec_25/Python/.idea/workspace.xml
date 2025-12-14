@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-1 type function test">
-      <change afterPath="$PROJECT_DIR$/Day_1/Code_Ex/cx_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-1 bug fixed 1">
+      <change afterPath="$PROJECT_DIR$/Day_1/Bug/bu_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,29 +42,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.cx_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pg_0 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.pg_0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pg_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pg_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pg_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pg_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pg_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pg_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pg_7.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/FFD WORK/FFD/Prac_zone_26/Dec_25/Python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.bn_1.executor": "Run",
+    "Python.bu_1.executor": "Run",
+    "Python.cx_1.executor": "Run",
+    "Python.pg_0 (1).executor": "Run",
+    "Python.pg_0.executor": "Run",
+    "Python.pg_1.executor": "Run",
+    "Python.pg_2.executor": "Run",
+    "Python.pg_3.executor": "Run",
+    "Python.pg_4.executor": "Run",
+    "Python.pg_5.executor": "Run",
+    "Python.pg_6.executor": "Run",
+    "Python.pg_7.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/FFD WORK/FFD/Prac_zone_26/Dec_25/Python"
   }
-}</component>
-  <component name="RunManager" selected="Python.bn_1">
+}]]></component>
+  <component name="RunManager" selected="Python.bu_1">
     <configuration name="bn_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Part-1" />
       <option name="ENV_FILES" value="" />
@@ -88,6 +89,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="bu_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Part-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_1/Bug" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_1/Bug/bu_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="cx_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Part-1" />
       <option name="ENV_FILES" value="" />
@@ -102,28 +125,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_1/Code_Ex/cx_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pg_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Part-1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_1/pg_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bu_1" />
         <item itemvalue="Python.bn_1" />
         <item itemvalue="Python.cx_1" />
         <item itemvalue="Python.pg_7" />
         <item itemvalue="Python.pg_6" />
-        <item itemvalue="Python.pg_5" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +330,31 @@
       <option name="project" value="LOCAL" />
       <updated>1765727784649</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Day-1 code experiment">
+      <option name="closed" value="true" />
+      <created>1765730177883</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765730177883</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Day-1 bonus length function">
+      <option name="closed" value="true" />
+      <created>1765730685276</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765730685276</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Day-1 bug fixed 1">
+      <option name="closed" value="true" />
+      <created>1765730735254</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1765730735254</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -346,6 +371,9 @@
     <MESSAGE value="Day-1 list manuplation" />
     <MESSAGE value="Day-1 list test" />
     <MESSAGE value="Day-1 type function test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-1 type function test" />
+    <MESSAGE value="Day-1 code experiment" />
+    <MESSAGE value="Day-1 bonus length function" />
+    <MESSAGE value="Day-1 bug fixed 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-1 bug fixed 1" />
   </component>
 </project>
