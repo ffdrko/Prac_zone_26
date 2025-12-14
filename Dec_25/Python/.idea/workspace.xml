@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-1 print function">
-      <change afterPath="$PROJECT_DIR$/Day_1/pg_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-1 input function and variable another version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +45,8 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.pg_0 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.pg_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pg_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pg_2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -55,7 +54,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/FFD WORK/FFD/Prac_zone_26/Dec_25/Python&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.pg_1">
+  <component name="RunManager" selected="Python.pg_2">
     <configuration name="pg_0 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Part-1" />
       <option name="ENV_FILES" value="" />
@@ -122,8 +121,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pg_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Part-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_1/pg_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pg_2" />
         <item itemvalue="Python.pg_1" />
         <item itemvalue="Python.pg_0 (1)" />
         <item itemvalue="Python.pg_0" />
@@ -161,12 +183,56 @@
       <option name="project" value="LOCAL" />
       <updated>1765726226298</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day-1 print function test">
+      <option name="closed" value="true" />
+      <created>1765726328807</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765726328807</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day-1 print function test">
+      <option name="closed" value="true" />
+      <created>1765726365351</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765726365351</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day-1 input function.">
+      <option name="closed" value="true" />
+      <created>1765726547693</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765726547693</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Day-1 input function and variable.">
+      <option name="closed" value="true" />
+      <created>1765726577494</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765726577494</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Day-1 input function and variable another version">
+      <option name="closed" value="true" />
+      <created>1765726792019</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765726792019</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New test line added." />
     <MESSAGE value="Day-1 print function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-1 print function" />
+    <MESSAGE value="Day-1 print function test" />
+    <MESSAGE value="Day-1 input function." />
+    <MESSAGE value="Day-1 input function and variable." />
+    <MESSAGE value="Day-1 input function and variable another version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-1 input function and variable another version" />
   </component>
 </project>
