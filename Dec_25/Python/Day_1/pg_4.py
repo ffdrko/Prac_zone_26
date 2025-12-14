@@ -6,3 +6,6 @@ user_todo_4 = input(user_message)
 
 user_todos = [user_todo_1, user_todo_2, user_todo_3, user_todo_4]
 print(user_todos)
+
+print(type(user_todos))
+print(type(user_todos[0]))
