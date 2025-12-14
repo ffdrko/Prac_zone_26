@@ -66,7 +66,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/FFD WORK/FFD/Prac_zone_26/Dec_25/Python&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.bu_3">
+  <component name="RunManager" selected="Python.bu_4">
     <configuration name="bn_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Part-1" />
       <option name="ENV_FILES" value="" />
@@ -155,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cx_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bu_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Part-1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_1/Code_Ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_1/Bug" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_1/Code_Ex/cx_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_1/Bug/bu_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bu_4" />
         <item itemvalue="Python.bu_3" />
         <item itemvalue="Python.bu_2" />
         <item itemvalue="Python.bu_1" />
         <item itemvalue="Python.bn_1" />
-        <item itemvalue="Python.cx_1" />
       </list>
     </recent_temporary>
   </component>
