@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-1 bug fixed 4">
-      <change afterPath="$PROJECT_DIR$/Day_2/pd_0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-2 while loop with true condition." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +50,7 @@
     "Python.bu_3.executor": "Run",
     "Python.bu_4.executor": "Run",
     "Python.cx_1.executor": "Run",
+    "Python.pd_0.executor": "Run",
     "Python.pg_0 (1).executor": "Run",
     "Python.pg_0.executor": "Run",
     "Python.pg_1.executor": "Run",
@@ -69,29 +67,7 @@
     "last_opened_file_path": "D:/FFD WORK/FFD/Prac_zone_26/Dec_25/Python"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.bu_4">
-    <configuration name="bn_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Part-1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_1/Bonus" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_1/Bonus/bn_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pd_0">
     <configuration name="bu_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Part-1" />
       <option name="ENV_FILES" value="" />
@@ -180,13 +156,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pd_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Part-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/pd_0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pd_0" />
         <item itemvalue="Python.bu_4" />
         <item itemvalue="Python.bu_3" />
         <item itemvalue="Python.bu_2" />
         <item itemvalue="Python.bu_1" />
-        <item itemvalue="Python.bn_1" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +387,31 @@
       <option name="project" value="LOCAL" />
       <updated>1765730904481</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Day-2 while loop.">
+      <option name="closed" value="true" />
+      <created>1765868524855</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1765868524855</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Day-2 while loop.">
+      <option name="closed" value="true" />
+      <created>1765868541973</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1765868541973</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Day-2 while loop with true condition.">
+      <option name="closed" value="true" />
+      <created>1765868707692</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1765868707692</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -412,6 +434,8 @@
     <MESSAGE value="Day-1 bug fixed 2" />
     <MESSAGE value="Day-1 bug fixed 3" />
     <MESSAGE value="Day-1 bug fixed 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-1 bug fixed 4" />
+    <MESSAGE value="Day-2 while loop." />
+    <MESSAGE value="Day-2 while loop with true condition." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-2 while loop with true condition." />
   </component>
 </project>
