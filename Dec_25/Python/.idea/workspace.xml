@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-2 code bonus while loop with range." />
+    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-2 use of dir and help function.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +59,8 @@
     "Python.pd_1.executor": "Run",
     "Python.pd_2.executor": "Run",
     "Python.pd_3.executor": "Run",
+    "Python.pd_4.executor": "Run",
+    "Python.pd_5.executor": "Run",
     "Python.pg_0 (1).executor": "Run",
     "Python.pg_0.executor": "Run",
     "Python.pg_1.executor": "Run",
@@ -70,11 +74,12 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/FFD WORK/FFD/Prac_zone_26/Dec_25/Python"
+    "last_opened_file_path": "D:/FFD WORK/FFD/Prac_zone_26/Dec_25/Python",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.pd_4">
-    <configuration name="bn_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.pd_5">
+    <configuration name="bu_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Part-1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2/Bonus" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2/Bug" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/Bonus/bn_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/Bug/bu_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bn_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bu_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Part-1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2/Bonus" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2/Bug" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/Bonus/bn_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/Bug/bu_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ce_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bu_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Part-1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,33 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2/Code ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2/Bug" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/Code ex/ce_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ce_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Part-1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2/Code ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/Code ex/ce_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/Bug/bu_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,13 +167,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pd_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Part-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/pd_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pd_5" />
+        <item itemvalue="Python.bu_3" />
+        <item itemvalue="Python.bu_2" />
+        <item itemvalue="Python.bu_1" />
         <item itemvalue="Python.pd_4" />
-        <item itemvalue="Python.bn_2" />
-        <item itemvalue="Python.bn_1" />
-        <item itemvalue="Python.ce_2" />
-        <item itemvalue="Python.ce_1" />
       </list>
     </recent_temporary>
   </component>
@@ -489,14 +494,50 @@
       <option name="project" value="LOCAL" />
       <updated>1765872480138</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Day-2 while loop task.">
+      <option name="closed" value="true" />
+      <created>1765872611550</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1765872611550</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Day-2 bug fixed 1.">
+      <option name="closed" value="true" />
+      <created>1765872665142</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1765872665142</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Day-2 bug fixed 2.">
+      <option name="closed" value="true" />
+      <created>1765872707744</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1765872707744</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Day-2 bug fixed 3.">
+      <option name="closed" value="true" />
+      <created>1765872771151</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1765872771152</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Day-2 use of dir and help function.">
+      <option name="closed" value="true" />
+      <created>1765872914811</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1765872914811</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day-1 input function and variable." />
-    <MESSAGE value="Day-1 input function and variable another version" />
-    <MESSAGE value="Day-1 task" />
-    <MESSAGE value="Day-1 multiple input" />
     <MESSAGE value="Day-1 list intro." />
     <MESSAGE value="Day-1 type function" />
     <MESSAGE value="Day-1 list manuplation" />
@@ -510,7 +551,6 @@
     <MESSAGE value="Day-1 bug fixed 4" />
     <MESSAGE value="Day-2 while loop." />
     <MESSAGE value="Day-2 while loop with true condition." />
-    <MESSAGE value="Day-2 while loop task." />
     <MESSAGE value="Day-2 while loop and list append method ." />
     <MESSAGE value="Day-2 while loop and capitalize method ." />
     <MESSAGE value="Day-2 append method task." />
@@ -518,6 +558,11 @@
     <MESSAGE value="Day-2 code experiment inside and outside loop." />
     <MESSAGE value="Day-2 code bonus password checker." />
     <MESSAGE value="Day-2 code bonus while loop with range." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-2 code bonus while loop with range." />
+    <MESSAGE value="Day-2 while loop task." />
+    <MESSAGE value="Day-2 bug fixed 1." />
+    <MESSAGE value="Day-2 bug fixed 2." />
+    <MESSAGE value="Day-2 bug fixed 3." />
+    <MESSAGE value="Day-2 use of dir and help function." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-2 use of dir and help function." />
   </component>
 </project>
