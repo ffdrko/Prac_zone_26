@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-2 append method task." />
+    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-2 code experiment inside and outside loop." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +49,8 @@
     "Python.bu_2.executor": "Run",
     "Python.bu_3.executor": "Run",
     "Python.bu_4.executor": "Run",
+    "Python.ce_1.executor": "Run",
+    "Python.ce_2.executor": "Run",
     "Python.cx_1.executor": "Run",
     "Python.pd_0.executor": "Run",
     "Python.pd_1.executor": "Run",
@@ -70,8 +72,8 @@
     "last_opened_file_path": "D:/FFD WORK/FFD/Prac_zone_26/Dec_25/Python"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.pd_3">
-    <configuration name="bu_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ce_2">
+    <configuration name="ce_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Part-1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_1/Bug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2/Code ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_1/Bug/bu_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/Code ex/ce_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pd_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ce_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Part-1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_2/Code ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/pd_0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_2/Code ex/ce_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ce_2" />
+        <item itemvalue="Python.ce_1" />
         <item itemvalue="Python.pd_3" />
         <item itemvalue="Python.pd_2" />
         <item itemvalue="Python.pd_1" />
-        <item itemvalue="Python.pd_0" />
-        <item itemvalue="Python.bu_4" />
       </list>
     </recent_temporary>
   </component>
@@ -454,12 +456,26 @@
       <option name="project" value="LOCAL" />
       <updated>1765871620482</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Day-2 code experiment infinite while loop.">
+      <option name="closed" value="true" />
+      <created>1765871767779</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1765871767779</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Day-2 code experiment inside and outside loop.">
+      <option name="closed" value="true" />
+      <created>1765872000145</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1765872000145</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="New test line added." />
-    <MESSAGE value="Day-1 print function" />
     <MESSAGE value="Day-1 print function test" />
     <MESSAGE value="Day-1 input function." />
     <MESSAGE value="Day-1 input function and variable." />
@@ -483,6 +499,8 @@
     <MESSAGE value="Day-2 while loop and list append method ." />
     <MESSAGE value="Day-2 while loop and capitalize method ." />
     <MESSAGE value="Day-2 append method task." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-2 append method task." />
+    <MESSAGE value="Day-2 code experiment infinite while loop." />
+    <MESSAGE value="Day-2 code experiment inside and outside loop." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-2 code experiment inside and outside loop." />
   </component>
 </project>
