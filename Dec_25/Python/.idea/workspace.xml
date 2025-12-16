@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-2 while loop with true condition." />
+    <list default="true" id="3b492751-e394-412d-94ce-10c8931b0641" name="Changes" comment="Day-2 while loop task.">
+      <change afterPath="$PROJECT_DIR$/Day_2/pd_2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +53,7 @@
     "Python.bu_4.executor": "Run",
     "Python.cx_1.executor": "Run",
     "Python.pd_0.executor": "Run",
+    "Python.pd_1.executor": "Run",
     "Python.pg_0 (1).executor": "Run",
     "Python.pg_0.executor": "Run",
     "Python.pg_1.executor": "Run",
@@ -411,7 +414,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765868707692</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Day-2 while loop task.">
+      <option name="closed" value="true" />
+      <created>1765868791765</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1765868791765</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Day-2 while loop task.">
+      <option name="closed" value="true" />
+      <created>1765868816999</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1765868816999</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -436,6 +455,7 @@
     <MESSAGE value="Day-1 bug fixed 4" />
     <MESSAGE value="Day-2 while loop." />
     <MESSAGE value="Day-2 while loop with true condition." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-2 while loop with true condition." />
+    <MESSAGE value="Day-2 while loop task." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-2 while loop task." />
   </component>
 </project>
